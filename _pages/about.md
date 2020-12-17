@@ -12,7 +12,7 @@ Welcome to my homepage. My name is Lingwei Zhu (朱　令緯), a PhD candidate a
 
 My research interests lie in developing scalable and safe reinforcement learning algorithms for real-world applications, especially robotics. 
 
-You can contact me via [lingweizhu95@gmail.com](lingweizhu95@gmail.com).
+You can contact me via *lingweizhu95@gmail.com*.
 
 Education
 ======
@@ -53,11 +53,10 @@ IEEE International Conference on Robotics and Automation (ICRA)
 Award
 ======
 Apr. 2021 -  
-**JSPS DC2** [(Japan Society for Promotion of Science, DC2)](https://www.jsps.go.jp/english/e-pd/index.html)  
+**JSPS DC2 Scholarship** [(Japan Society for Promotion of Science, DC2)](https://www.jsps.go.jp/english/e-pd/index.html)  
 
 Apr. 2020 - Mar. 2021  
-**MEXT** (Japanese Government Scholarship)  
-Recommended by University  
+**MEXT scholarship** (Japanese Government Scholarship, recommended by university)  
 
 **Student Research Award**  
 IEEE Kansai Chapter Japan 2020  
