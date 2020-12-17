@@ -48,3 +48,16 @@ IEEE Robotics and Automation Letter (RAL)
 IEEE International Conference on Robotics and Automation (ICRA)
 
 
+Award
+======
+Apr. 2021 -  
+**JSPS DC2** [(Japan Society for Promotion of Science, DC2)](https://www.jsps.go.jp/english/e-pd/index.html)  
+
+Apr. 2020 - Mar. 2021  
+**MEXT** (Japanese Government Scholarship)  
+Recommended by University  
+
+**Student Research Award**  
+IEEE Kansai Chapter Japan  
+
+****
