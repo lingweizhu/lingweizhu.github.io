@@ -15,34 +15,50 @@ My research interests lie in developing scalable and safe reinforcement learning
 Education
 ======
 Oct. 2019 - Present
+------
 **PhD Candidate**
+------
 Robot Learning Lab,
+------
 Nara Institute of Science and Technology
+------
 
 Oct. 2017 - Sep. 2019
+------
 **Master of Engineering**
+------
 Intelligent System Control Laboratory,
+------
 Nara Institute of Science and Technology
 
 Oct. 2013 - Jul. 2017
+------
 **Bachelor of Engineering**
+------
 Tianjin Polytechnic University
+------
 
 Experience and Professional Activities
 ======
 Experience
 ------
 Apr. 2020 - Present
+------
 **Research Assistant**
+------
 Robot Learning Laboratory
-
+------
 Apr. 2018 - Sep. 2019
+------
 **Research Assistant**
+------
 Intelligent System Control Laboratory
+------
 
 Reviewer
 ------
 IEEE Robotics and Automation Letter (RAL)
+------
 IEEE International Conference on Robotics and Automation (ICRA)
 
 
