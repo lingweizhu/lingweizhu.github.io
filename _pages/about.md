@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,50 +15,36 @@ My research interests lie in developing scalable and safe reinforcement learning
 Education
 ======
 Oct. 2019 - Present
-------
 **PhD Candidate**
-------
 Robot Learning Lab,
-------
-Nara Institute of Science and Technology
-------
+Nara Institute of Science and Technology  
+
 
 Oct. 2017 - Sep. 2019
-------
 **Master of Engineering**
-------
 Intelligent System Control Laboratory,
-------
-Nara Institute of Science and Technology
+Nara Institute of Science and Technology  
 
 Oct. 2013 - Jul. 2017
-------
 **Bachelor of Engineering**
-------
-Tianjin Polytechnic University
-------
+Tianjin Polytechnic University  
 
 Experience and Professional Activities
 ======
-Experience
-------
+**Experience**  
 Apr. 2020 - Present
-------
 **Research Assistant**
-------
-Robot Learning Laboratory
-------
+Robot Learning Laboratory  
+
+
 Apr. 2018 - Sep. 2019
-------
 **Research Assistant**
-------
-Intelligent System Control Laboratory
-------
+Intelligent System Control Laboratory  
+
 
 Reviewer
 ------
-IEEE Robotics and Automation Letter (RAL)
-------
+IEEE Robotics and Automation Letter (RAL)  
 IEEE International Conference on Robotics and Automation (ICRA)
 
 
