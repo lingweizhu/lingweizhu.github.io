@@ -11,30 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Tianjin Politechnic University, China, 2017
+* M.S. in Intelligent System Control Lab, Nara Institute of Science and Technology, Japan, 2019
+* Ph.D in Robot Learning Lab, Nara Institute of Science and Technology, Japan, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Apr. 2020 - Present: Research Assistant
+  * Nara Institute of Science and Technology
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Apr. 2018 - Sep. 2019: Research Assistant
+  * Nara Institute of Science and Technology
+
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Matlab, Python, Tensorflow, PyTorch
+* Language: Chinese, English, Japanese
 
 Publications
 ======
@@ -42,18 +36,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+

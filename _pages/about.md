@@ -12,6 +12,8 @@ Welcome to my homepage. My name is Lingwei Zhu (朱　令緯), a PhD candidate a
 
 My research interests lie in developing scalable and safe reinforcement learning algorithms for real-world applications, especially robotics. 
 
+You can contact me via [lingweizhu95@gmail.com](lingweizhu95@gmail.com).
+
 Education
 ======
 Oct. 2019 - Present  
