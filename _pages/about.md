@@ -58,6 +58,6 @@ Apr. 2020 - Mar. 2021
 Recommended by University  
 
 **Student Research Award**  
-IEEE Kansai Chapter Japan  
+IEEE Kansai Chapter Japan 2020  
 
 ****
