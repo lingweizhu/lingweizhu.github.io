@@ -32,13 +32,13 @@ Tianjin Polytechnic University
 Experience and Professional Activities
 ======
 **Experience**  
-Apr. 2020 - Present
-**Research Assistant**
+Apr. 2020 - Present  
+**Research Assistant**  
 Robot Learning Laboratory  
 
 
-Apr. 2018 - Sep. 2019
-**Research Assistant**
+Apr. 2018 - Sep. 2019  
+**Research Assistant**  
 Intelligent System Control Laboratory  
 
 
