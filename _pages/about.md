@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage. My name is Lingwei Zhu (朱　令緯), a PhD candidate at Robot Learning Lab, Nara Institute of Science and Technology (NAIST) under the supervision of [Takamitsu Matsubara](https://scholar.google.com/citations?user=RFDSj_0AAAAJ&hl=en). 
+Welcome to my homepage! My name is Lingwei Zhu (朱　令緯), a last-year PhD student at Robot Learning Lab, Nara Institute of Science and Technology (NAIST) under the supervision of [Takamitsu Matsubara](https://scholar.google.com/citations?user=RFDSj_0AAAAJ&hl=en). 
 
-My research interests lie in developing scalable and safe reinforcement learning algorithms for real-world applications, especially robotics. 
+My research interest lies in developing scalable and safe reinforcement learning algorithms for realizing autonomous control of large-scale systems, e.g. industrial processes and robotics.  
 
-You can contact me via *lingweizhu95@gmail.com*.
+I am actively looking for postdoc position that can accommodate my skills.
+
+Currently I am receiving Japan Society for the Promotion of Science scholarship [(JSPS) DC](https://www.jsps.go.jp/english/e-pd/index.html) that has independent research grants. Prior to that, I received Japanese Goverment Scholarship for 2020~2021.
+
+Please feel free to contact me via *lingwei.andrew.zhu@gmail.com*.
 
 Education
 ======
