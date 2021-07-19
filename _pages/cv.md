@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV [here](https://lingweizhu.github.io/files/cv_lingweizhu.pdf)
+You can download my CV [here](https://lingweizhu.github.io/files/cv_lingweizhu.pdf).
 
