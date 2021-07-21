@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-You can download my CV [here](https://lingweizhu.github.io/files/cv_lingweizhu.pdf).
+The CV is continuously being updated.
+Please find my detailed personal information [here](https://lingweizhu.github.io/files/cv_lingweizhu.pdf).
 
