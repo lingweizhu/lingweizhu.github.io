@@ -11,6 +11,7 @@ redirect_from:
 Welcome to my homepage! My name is Lingwei Zhu (朱　令緯), a last-year PhD student at Robot Learning Lab, Nara Institute of Science and Technology (NAIST) under the supervision of [Takamitsu Matsubara](https://scholar.google.com/citations?user=RFDSj_0AAAAJ&hl=en). 
 
 My research interest lies in developing scalable and safe reinforcement learning algorithms for realizing autonomous control of large-scale systems, e.g. industrial processes and robotics.  
+Currently I am focusing on developing 'cautious' RL that is capable of reducing policy oscillation. Please have a check on [this paper](https://arxiv.org/pdf/2107.05217.pdf) for a quick view.
 
 I am actively looking for postdoc position that can accommodate my skills. Please see my CV page for detailed personal information.
 
