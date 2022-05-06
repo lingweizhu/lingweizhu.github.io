@@ -25,7 +25,7 @@ Feel free to contact me via *lingwei.andrew.zhu@gmail.com*.
 (* indicates equal contribution)
 
 Multi-Tier Platform for Cognizing Massive Electroencephalogram, [[link]](https://arxiv.org/pdf/2204.09840.pdf)\
-*Z Chen*$^{*}$, ***Lingwei Zhu***$^{*}$, *Ziwei Yang, Renyuan Zhang*, \
+*Z Chen*$^{\dagger}$, ***Lingwei Zhu***$^{\dagger}$, *Ziwei Yang, Renyuan Zhang*, \
 accepted by IJCAI 2022 
 
 
@@ -58,7 +58,7 @@ Scalable reinforcement learning for plant-wide control of vinyl acetate monomer 
 Control Engineering Practice 2020
 
 Factorial kernel dynamic policy programming for vinyl acetate monomer plant model control, [[link]](https://www.researchgate.net/profile/Yunduan-Cui/publication/327294861_Factorial_Kernel_Dynamic_Policy_Programming_for_Vinyl_Acetate_Monomer_Plant_Model_Control/links/5b8739c7299bf1d5a73117e4/Factorial-Kernel-Dynamic-Policy-Programming-for-Vinyl-Acetate-Monomer-Plant-Model-Control.pdf)\
-*Y Cui*$^{*}$, ***Lingwei Zhu***$^{*}$, *M Fujisaki, H Kanokogi, T Matsubara*,\
+*Y Cui*$^{\dagger}$, ***Lingwei Zhu***$^{\dagger}$, *M Fujisaki, H Kanokogi, T Matsubara*,\
 IEEE CASE 2018
 
 ---
