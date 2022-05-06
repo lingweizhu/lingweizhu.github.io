@@ -22,7 +22,7 @@ Feel free to contact me via *lingwei.andrew.zhu@gmail.com*.
 ---
 ## **Publications**
 
-(* indicates equal contribution)
+($\dagger$ indicates equal contribution)
 
 Multi-Tier Platform for Cognizing Massive Electroencephalogram, [[link]](https://arxiv.org/pdf/2204.09840.pdf)\
 *Z Chen*$^{\dagger}$, ***Lingwei Zhu***$^{\dagger}$, *Ziwei Yang, Renyuan Zhang*, \
