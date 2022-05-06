@@ -42,7 +42,7 @@ Alleviating Parameter-tuning Burden in Reinforcement Learning for Large-scale Pr
 Computers & Chemical Engineering 2022
 
 Cautious Actor-Critic, [[link]](https://proceedings.mlr.press/v157/zhu21a/zhu21a.pdf)\
-***Lingwei Zhu**, T Kitamura, M Takamitsu*,\
+***Lingwei Zhu**, T Kitamura, T Matsubara*,\
 Asian Conference on Machine Learning 2021
 
 Geometric Value Iteration: Dynamic Error-Aware KL Regularization for Reinforcement Learning, [[link]](https://proceedings.mlr.press/v157/kitamura21a/kitamura21a.pdf)\
