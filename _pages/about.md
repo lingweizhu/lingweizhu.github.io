@@ -19,7 +19,7 @@ I also received Japanese Goverment Scholarship (MEXT).
 
 Feel free to contact me via *lingwei.andrew.zhu@gmail.com*.
 
----
+
 ## **Publications**
 
 ($\dagger$ indicates equal contribution)
@@ -61,7 +61,7 @@ Factorial kernel dynamic policy programming for vinyl acetate monomer plant mode
 *Y Cui*$^{\dagger}$, ***Lingwei Zhu***$^{\dagger}$, *M Fujisaki, H Kanokogi, T Matsubara*,\
 IEEE CASE 2018
 
----
+
 ## Professional Activities
 
 **Reviewer**\
