@@ -24,6 +24,11 @@ Feel free to contact me via *lingwei.andrew.zhu@gmail.com*.
 
 ($\dagger$ indicates equal contribution)
 
+Automated Cancer Subtyping via Vector Quantized Mutual Information Maximization,\
+*Z Chen*$^{\dagger}$, ***Lingwei Zhu***$^{\dagger}$, *Ziwei Yang, Takashi Matsubara*, \
+accepted by ECML-PKDD 2022 
+
+
 Multi-Tier Platform for Cognizing Massive Electroencephalogram, [[link]](https://arxiv.org/pdf/2204.09840.pdf)\
 *Z Chen*$^{\dagger}$, ***Lingwei Zhu***$^{\dagger}$, *Ziwei Yang, Renyuan Zhang*, \
 accepted by IJCAI 2022 
