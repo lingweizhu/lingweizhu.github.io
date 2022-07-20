@@ -20,9 +20,22 @@ I also received Japanese Goverment Scholarship (MEXT).
 Feel free to contact me via *lingwei.andrew.zhu@gmail.com*.
 
 
-## **Publications**
+
+## **Preprints and Working Papers**
 
 ($\dagger$ indicates equal contribution)
+
+Cancer Subtyping by Improved Transcriptomic Features Using Vector Quantized Variational Autoencoder, \
+*Z Chen*$^{\dagger}$, *ZW Yang* $^{\dagger}$, ***Lingwei Zhu***$^{\dagger}$, G Shi, K Yue, Takashi Matsubara, S Kanaya, MD Altaf-Ul-Amin
+
+Automated Sleep Staging via Parallel Frequency-Cut Attention,\
+Z Chen, ZW Yang, ***Lingwei Zhu***, W Chen, T Tamura, N Ono, MD Altaf-Ul-Amin, S Kanaya, M Huang
+
+Cyclic Policy Distillation: Sample-Efficient Sim-to-Real Reinforcement Learning with Domain Randomization,\
+Y Kadokawa, ***Lingwei Zhu***, Y Tsurumine and Takamitsu Matsubara
+
+## **Publications**
+
 
 
 Automated Cancer Subtyping via Vector Quantized Mutual Information Maximization, [[link]](https://arxiv.org/pdf/2206.10801.pdf)\
