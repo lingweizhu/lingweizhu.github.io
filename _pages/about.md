@@ -25,10 +25,10 @@ Feel free to contact me via *lingwei.andrew.zhu@gmail.com*.
 
 ($\dagger$ indicates equal contribution)
 
-Cancer Subtyping by Improved Transcriptomic Features Using Vector Quantized Variational Autoencoder, \
+Cancer Subtyping by Improved Transcriptomic Features Using Vector Quantized Variational Autoencoder, [[link]](https://arxiv.org/pdf/2207.09783.pdf) \
 *Z Chen*$^{\dagger}$, *ZW Yang* $^{\dagger}$, ***Lingwei Zhu***$^{\dagger}$, G Shi, K Yue, Takashi Matsubara, S Kanaya, MD Altaf-Ul-Amin
 
-Automated Sleep Staging via Parallel Frequency-Cut Attention,\
+Automated Sleep Staging via Parallel Frequency-Cut Attention, [[link]](https://arxiv.org/pdf/2204.03173.pdf)\
 Z Chen, ZW Yang, ***Lingwei Zhu***, W Chen, T Tamura, N Ono, MD Altaf-Ul-Amin, S Kanaya, M Huang
 
 Cyclic Policy Distillation: Sample-Efficient Sim-to-Real Reinforcement Learning with Domain Randomization,\
