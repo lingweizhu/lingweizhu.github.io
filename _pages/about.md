@@ -9,15 +9,13 @@ redirect_from:
 ---
 
 ## Personal Info
-Welcome to my homepage! My name is Lingwei Zhu (朱　令緯), a last-year PhD student at Robot Learning Lab, Nara Institute of Science and Technology (NAIST) under the supervision of [Takamitsu Matsubara](https://scholar.google.com/citations?user=RFDSj_0AAAAJ&hl=en). 
+Welcome to my homepage! My name is Lingwei Zhu (朱　令緯). I am now a Postdoc with [Martha White](https://scholar.google.ca/citations?user=t5zdD_IAAAAJ&hl=en) at the University of Alberta.
+I obtained my PhD at Nara Institute of Science and Technology (NAIST) under [Takamitsu Matsubara](https://scholar.google.com/citations?user=RFDSj_0AAAAJ&hl=en). 
 
 My research interest lies in applications of reinforcement learning and unsupervised learning. 
 The applications include realizing autonomous control of large-scale systems (industrial processes and robotics); developing automated biomedical systems (cancers, brain activity cognition).
 
-I am a Japan Society for the Promotion of Science researcher [(JSPS) DC](https://www.jsps.go.jp/english/e-pd/index.html). 
-I also received Japanese Goverment Scholarship (MEXT).
-
-Feel free to contact me via *lingwei.andrew.zhu@gmail.com*.
+My CV can be found at [here](https://lingweizhu.github.io/files/cv_2p.pdf)
 
 
 
@@ -84,6 +82,8 @@ IEEE CASE 2018
 ## Professional Activities
 
 **Reviewer**\
+AAAI\
+ECML\
 IEEE Robotics and Automation Letter (RAL)\
 IEEE ICRA\
 ECML
