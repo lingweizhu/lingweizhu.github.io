@@ -35,7 +35,7 @@ Y Kadokawa, ***Lingwei Zhu***, Y Tsurumine and Takamitsu Matsubara
 ## **Publications**
 
 Hierarchical Categorical Generative Modeling for Multi-omics Cancer Subtyping, [[link]](https://ieeexplore.ieee.org/abstract/document/9994928)\
-Ziwei Yang$^{\dagger}$, ***Lingwei* Zhu***$^{\dagger}$, Chen Li, Zheng Chen, Naoki Ono, Md Altaf-Ul-Amin, Shigehiko Kanaya,
+Ziwei Yang$^{\dagger}$, ***Lingwei Zhu***$^{\dagger}$, Chen Li, Zheng Chen, Naoki Ono, Md Altaf-Ul-Amin, Shigehiko Kanaya,
 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2022
 
 Automated Sleep Staging via Parallel Frequency-Cut Attention, [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10041186)\
