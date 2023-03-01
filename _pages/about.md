@@ -10,7 +10,7 @@ redirect_from:
 
 ## Personal Info
 Welcome to my homepage! My name is Lingwei Zhu (朱　令緯). I am now a Postdoc with [Martha White](https://scholar.google.ca/citations?user=t5zdD_IAAAAJ&hl=en) at the University of Alberta.
-I obtained my PhD at Nara Institute of Science and Technology (NAIST) under [Takamitsu Matsubara](https://scholar.google.com/citations?user=RFDSj_0AAAAJ&hl=en). 
+I obtained my PhD with the Best Student Honor at Nara Institute of Science and Technology (NAIST) under [Takamitsu Matsubara](https://scholar.google.com/citations?user=RFDSj_0AAAAJ&hl=en). 
 
 My research interest lies in applications of reinforcement learning and unsupervised learning. 
 The applications include realizing autonomous control of large-scale systems (industrial processes and robotics); developing automated biomedical systems (cancers, brain activity cognition).
@@ -23,18 +23,24 @@ My CV can be found at [here](https://lingweizhu.github.io/files/cv_2p.pdf)
 
 ($\dagger$ indicates equal contribution)
 
+Generalized Munchausen Reinforcement Learning using Tsallis KL Divergence, [[link]](https://arxiv.org/pdf/2301.11476.pdf)\
+***Lingwei Zhu***, Zheng Chen, Takamitsu Matsubara, Martha White
+
 Cancer Subtyping by Improved Transcriptomic Features Using Vector Quantized Variational Autoencoder, [[link]](https://arxiv.org/pdf/2207.09783.pdf) \
 *Z Chen*$^{\dagger}$, *ZW Yang* $^{\dagger}$, ***Lingwei Zhu***$^{\dagger}$, G Shi, K Yue, Takashi Matsubara, S Kanaya, MD Altaf-Ul-Amin
-
-Automated Sleep Staging via Parallel Frequency-Cut Attention, [[link]](https://arxiv.org/pdf/2204.03173.pdf)\
-Z Chen, ZW Yang, ***Lingwei Zhu***, W Chen, T Tamura, N Ono, MD Altaf-Ul-Amin, S Kanaya, M Huang
 
 Cyclic Policy Distillation: Sample-Efficient Sim-to-Real Reinforcement Learning with Domain Randomization,\
 Y Kadokawa, ***Lingwei Zhu***, Y Tsurumine and Takamitsu Matsubara
 
 ## **Publications**
 
+Hierarchical Categorical Generative Modeling for Multi-omics Cancer Subtyping, [[link]](https://ieeexplore.ieee.org/abstract/document/9994928)\
+Ziwei Yang$^{\dagger}$, ***Lingwei* Zhu***$^{\dagger}$, Chen Li, Zheng Chen, Naoki Ono, Md Altaf-Ul-Amin, Shigehiko Kanaya,
+IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2022
 
+Automated Sleep Staging via Parallel Frequency-Cut Attention, [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10041186)\
+Z Chen, ZW Yang, ***Lingwei Zhu***, W Chen, T Tamura, N Ono, MD Altaf-Ul-Amin, S Kanaya, M Huang, \
+IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2022
 
 Automated Cancer Subtyping via Vector Quantized Mutual Information Maximization, [[link]](https://arxiv.org/pdf/2206.10801.pdf)\
 *Z Chen*$^{\dagger}$, ***Lingwei Zhu***$^{\dagger}$, *Ziwei Yang, Takashi Matsubara*, \
