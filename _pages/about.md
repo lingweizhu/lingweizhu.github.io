@@ -26,13 +26,17 @@ My CV can be found at [here](https://lingweizhu.github.io/files/cv_2p.pdf)
 Generalized Munchausen Reinforcement Learning using Tsallis KL Divergence, [[link]](https://arxiv.org/pdf/2301.11476.pdf)\
 ***Lingwei Zhu***, Zheng Chen, Takamitsu Matsubara, Martha White
 
-Cancer Subtyping by Improved Transcriptomic Features Using Vector Quantized Variational Autoencoder, [[link]](https://arxiv.org/pdf/2207.09783.pdf) \
-*Z Chen*$^{\dagger}$, *ZW Yang* $^{\dagger}$, ***Lingwei Zhu***$^{\dagger}$, G Shi, K Yue, Takashi Matsubara, S Kanaya, MD Altaf-Ul-Amin
-
-Cyclic Policy Distillation: Sample-Efficient Sim-to-Real Reinforcement Learning with Domain Randomization,\
-Y Kadokawa, ***Lingwei Zhu***, Y Tsurumine and Takamitsu Matsubara
 
 ## **Publications**
+
+Cancer Subtyping by Improved Transcriptomic Features Using Vector Quantized Variational Autoencoder, [[link]](https://arxiv.org/pdf/2207.09783.pdf) \
+*Z Chen*$^{\dagger}$, *ZW Yang* $^{\dagger}$, ***Lingwei Zhu***$^{\dagger}$, G Shi, K Yue, Takashi Matsubara, S Kanaya, MD Altaf-Ul-Amin,\
+Computer Methods and Programs in Biomedicine (CMPB) 2023
+
+Cyclic Policy Distillation: Sample-Efficient Sim-to-Real Reinforcement Learning with Domain Randomization,\
+Y Kadokawa, ***Lingwei Zhu***, Y Tsurumine and Takamitsu Matsubara,\
+Robotics and Autonomous Systems (RAS) 2023
+
 
 Hierarchical Categorical Generative Modeling for Multi-omics Cancer Subtyping, [[link]](https://ieeexplore.ieee.org/abstract/document/9994928)\
 Ziwei Yang$^{\dagger}$, ***Lingwei Zhu***$^{\dagger}$, Chen Li, Zheng Chen, Naoki Ono, Md Altaf-Ul-Amin, Shigehiko Kanaya,
