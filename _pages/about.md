@@ -15,7 +15,7 @@ I obtained my PhD with the Best Student Honor at Nara Institute of Science and T
 My research interest lies in applications of reinforcement learning and unsupervised learning. 
 The applications include realizing autonomous control of large-scale systems (industrial processes and robotics); developing automated biomedical systems (cancers, brain activity cognition).
 
-My CV can be found at [here](https://lingweizhu.github.io/files/cv_2p.pdf)
+My CV can be found [here](https://lingweizhu.github.io/files/cv_lingweizhu.pdf)
 
 
 
@@ -23,11 +23,19 @@ My CV can be found at [here](https://lingweizhu.github.io/files/cv_2p.pdf)
 
 ($\dagger$ indicates equal contribution)
 
+Offline Reinforcement Learning with In-Sample Tsallis Regularization, \
+***Lingwei Zhu***, Matthew Schlegel, Han Wang, Martha White
+
+
 Generalized Munchausen Reinforcement Learning using Tsallis KL Divergence, [[link]](https://arxiv.org/pdf/2301.11476.pdf)\
 ***Lingwei Zhu***, Zheng Chen, Takamitsu Matsubara, Martha White
 
 
 ## **Publications**
+
+Cautious Policy Programming: Exploiting KL Regularization for Monotonic Policy Improvement in RL,\
+***Lingwei Zhu***, Takamitsu Matsubara, \
+accepted by Machine Learning 2023
 
 Cancer Subtyping by Improved Transcriptomic Features Using Vector Quantized Variational Autoencoder, [[link]](https://arxiv.org/pdf/2207.09783.pdf) \
 *Z Chen*$^{\dagger}$, *ZW Yang* $^{\dagger}$, ***Lingwei Zhu***$^{\dagger}$, G Shi, K Yue, Takashi Matsubara, S Kanaya, MD Altaf-Ul-Amin,\
