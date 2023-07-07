@@ -33,8 +33,8 @@ Generalized Munchausen Reinforcement Learning using Tsallis KL Divergence, [[lin
 
 ## **Publications**
 
-Cautious Policy Programming: Exploiting KL Regularization for Monotonic Policy Improvement in RL,\
-***Lingwei Zhu***, Takamitsu Matsubara, \
+Cautious Policy Programming: Exploiting KL Regularization for Monotonic Policy Improvement in Reinforcement Learning,\
+***Lingwei Zhu***, Takamitsu Matsubara \
 accepted by Machine Learning 2023
 
 Cancer Subtyping by Improved Transcriptomic Features Using Vector Quantized Variational Autoencoder, [[link]](https://arxiv.org/pdf/2207.09783.pdf) \
