@@ -27,11 +27,12 @@ Offline Reinforcement Learning with In-Sample Tsallis Regularization, \
 ***Lingwei Zhu***, Matthew Schlegel, Han Wang, Martha White
 
 
-Generalized Munchausen Reinforcement Learning using Tsallis KL Divergence, [[link]](https://arxiv.org/pdf/2301.11476.pdf)\
-***Lingwei Zhu***, Zheng Chen, Takamitsu Matsubara, Martha White
-
 
 ## **Publications**
+
+Generalized Munchausen Reinforcement Learning using Tsallis KL Divergence,\
+***Lingwei Zhu***, Zheng Chen, Matthew Schlegel, Martha White\
+accepted by NeurIPS 2023
 
 Cautious Policy Programming: Exploiting KL Regularization for Monotonic Policy Improvement in Reinforcement Learning,\
 ***Lingwei Zhu***, Takamitsu Matsubara \
