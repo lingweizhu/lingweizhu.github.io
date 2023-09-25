@@ -30,11 +30,11 @@ Offline Reinforcement Learning with In-Sample Tsallis Regularization, \
 
 ## **Publications**
 
-Generalized Munchausen Reinforcement Learning using Tsallis KL Divergence,\
+Generalized Munchausen Reinforcement Learning using Tsallis KL Divergence, [[link]](https://arxiv.org/pdf/2301.11476.pdf)\
 ***Lingwei Zhu***, Zheng Chen, Matthew Schlegel, Martha White\
 accepted by NeurIPS 2023
 
-Cautious Policy Programming: Exploiting KL Regularization for Monotonic Policy Improvement in Reinforcement Learning,\
+Cautious Policy Programming: Exploiting KL Regularization for Monotonic Policy Improvement in Reinforcement Learning, [[link]](https://link.springer.com/article/10.1007/s10994-023-06368-z)\
 ***Lingwei Zhu***, Takamitsu Matsubara \
 accepted by Machine Learning 2023
 
