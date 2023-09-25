@@ -42,7 +42,7 @@ Cancer Subtyping by Improved Transcriptomic Features Using Vector Quantized Vari
 *Z Chen*$^{\dagger}$, *ZW Yang* $^{\dagger}$, ***Lingwei Zhu***$^{\dagger}$, G Shi, K Yue, Takashi Matsubara, S Kanaya, MD Altaf-Ul-Amin,\
 Computer Methods and Programs in Biomedicine (CMPB) 2023
 
-Cyclic Policy Distillation: Sample-Efficient Sim-to-Real Reinforcement Learning with Domain Randomization,\
+Cyclic Policy Distillation: Sample-Efficient Sim-to-Real Reinforcement Learning with Domain Randomization, [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0921889023000647)\
 Y Kadokawa, ***Lingwei Zhu***, Y Tsurumine and Takamitsu Matsubara,\
 Robotics and Autonomous Systems (RAS) 2023
 
