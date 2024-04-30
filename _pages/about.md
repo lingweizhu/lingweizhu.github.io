@@ -9,11 +9,10 @@ redirect_from:
 ---
 
 ## Personal Info
-Welcome to my homepage! My name is Lingwei Zhu (朱　令緯). I am now a Postdoc with [Martha White](https://scholar.google.ca/citations?user=t5zdD_IAAAAJ&hl=en) at the University of Alberta.
-I obtained my PhD with the Best Student Honor at Nara Institute of Science and Technology (NAIST) under [Takamitsu Matsubara](https://scholar.google.com/citations?user=RFDSj_0AAAAJ&hl=en). 
+Welcome to my homepage! My name is Lingwei Zhu (朱　令緯). I am now a Postdoc at the RLAI Lab, working with [Prof. Martha White](https://scholar.google.ca/citations?user=t5zdD_IAAAAJ&hl=en) at the University of Alberta.
+I obtained my PhD with the Best Student Honor at Nara Institute of Science and Technology (NAIST) under the supervision of [Prof. Takamitsu Matsubara](https://scholar.google.com/citations?user=RFDSj_0AAAAJ&hl=en). 
 
-My research interest lies in applications of reinforcement learning and unsupervised learning. 
-The applications include realizing autonomous control of large-scale systems (industrial processes and robotics); developing automated biomedical systems (cancers, brain activity cognition).
+My research interest lies in applications of reinforcement learning and unsupervised learning, including autonomous control of large-scale systems (industrial processes and robotics); developing automated biomedical systems (cancers, brain activity cognition).
 
 My CV can be found [here](https://lingweizhu.github.io/files/cv_lingweizhu.pdf)
 
@@ -23,12 +22,15 @@ My CV can be found [here](https://lingweizhu.github.io/files/cv_lingweizhu.pdf)
 
 ($\dagger$ indicates equal contribution)
 
-Offline Reinforcement Learning with In-Sample Tsallis Regularization, \
-***Lingwei Zhu***, Matthew Schlegel, Han Wang, Martha White
-
+$q$-Exponential Family Policies for Reinforcement Learning,\
+***Lingwei Zhu***, Haseeb Shah, Han Wang, Martha White
 
 
 ## **Publications**
+Offline Reinforcement Learning with Tsallis Regularization, [[link]](https://openreview.net/pdf?id=HNqEKZDDRc) \
+***Lingwei Zhu***, Matthew Schlegel, Han Wang, Martha White\
+accepted by Transaction on Machine Learning Research (TMLR) 2024
+
 
 Generalized Munchausen Reinforcement Learning using Tsallis KL Divergence, [[link]](https://arxiv.org/pdf/2301.11476.pdf)\
 ***Lingwei Zhu***, Zheng Chen, Matthew Schlegel, Martha White\
