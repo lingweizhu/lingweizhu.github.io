@@ -22,7 +22,7 @@ My CV can be found [here](https://lingweizhu.github.io/files/cv_lingweizhu.pdf)
 
 ($\dagger$ indicates equal contribution)
 
-$q$-Exponential Family Policies for Reinforcement Learning,\
+$q$-Exponential Family Policies for Reinforcement Learning, [[link]](https://arxiv.org/abs/2408.07245)\
 ***Lingwei Zhu***, Haseeb Shah, Han Wang, Martha White
 
 
