@@ -9,10 +9,12 @@ redirect_from:
 ---
 
 ## Personal Info
-Welcome to my homepage! My name is Lingwei Zhu (朱　令緯). I am now a Postdoc at the [RLAI Lab, University of Alberta](http://rlai.ualberta.ca/people.html), working with Prof. [Martha White](https://scholar.google.ca/citations?user=t5zdD_IAAAAJ&hl=en).
+Welcome to my homepage! My name is Lingwei Zhu (朱　令緯). 
+I am now a Project Researcher at the [CDR lab, University of Tokyo](https://developmental-robotics.jp/en/greeting/) working with Prof. [Yukie Nagai](https://scholar.google.co.jp/citations?user=HqTUx7YAAAAJ&hl=en). 
+Prior to coming to Tokyo, I spent two wonderful years at the [RLAI Lab, University of Alberta](http://rlai.ualberta.ca/people.html) as a postdoc working with Prof. [Martha White](https://scholar.google.ca/citations?user=t5zdD_IAAAAJ&hl=en).
 I obtained my PhD with the Best Student Honor at Nara Institute of Science and Technology (NAIST) under the supervision of Prof. [Takamitsu Matsubara](https://scholar.google.com/citations?user=RFDSj_0AAAAJ&hl=en). 
 
-My research interest lies in applications of reinforcement learning and unsupervised learning, including autonomous control of large-scale systems (industrial processes and robotics) and automated biomedical systems (cancers, brain activity cognition).
+My research interest lies in applications of artificial intelligence and machine learning for solving complex real-world problems. Especially reinforcement learning and unsupervised learning for autonomous control of large-scale systems (industrial processes and robotics) and automated biomedical systems (cancers, brain activity cognition).
 
 My CV can be found [here](https://lingweizhu.github.io/files/cv_lingweizhu.pdf)
 
@@ -21,6 +23,9 @@ My CV can be found [here](https://lingweizhu.github.io/files/cv_lingweizhu.pdf)
 ## **Preprints and Working Papers**
 
 ($\dagger$ indicates equal contribution)
+
+Fat-to-Thin Policy Optimization: Offline RL with Sparse Policies \
+***Lingwei Zhu***, Han Wang, Martha White, Yukie Nagai
 
 $q$-Exponential Family for Policy Optimization, [[link]](https://arxiv.org/abs/2408.07245)\
 ***Lingwei Zhu***, Haseeb Shah, Han Wang, Martha White
