@@ -25,10 +25,10 @@ My CV can be found [here](https://lingweizhu.github.io/files/cv_lingweizhu.pdf)
 ($\dagger$ indicates equal contribution)
 
 Fat-to-Thin Policy Optimization: Offline RL with Sparse Policies \
-***Lingwei Zhu***, Han Wang, Martha White, Yukie Nagai
+***Lingwei Zhu***, Han Wang, Yukie Nagai
 
 $q$-Exponential Family for Policy Optimization, [[link]](https://arxiv.org/abs/2408.07245)\
-***Lingwei Zhu***, Haseeb Shah, Han Wang, Martha White
+***Lingwei Zhu***, Haseeb Shah, Han Wang, Yukie, Nagai, Martha White
 
 
 ## **Publications**
