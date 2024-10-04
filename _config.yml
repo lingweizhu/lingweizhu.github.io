@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lingwei Zhu / Personal Webpage"
 title_separator          : "-"
 name                     : &name "Lingwei Zhu"
-description              : &description "Currently a Postdoc at the University of Alberta with Martha White"
+description              : &description "Currently a project researcher at the University of Tokyo"
 url                      : https://lingweizhu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lingweizhu.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Lingwei Zhu"
   avatar           : "photo_google_profile.jpg"
-  bio              : "Currently a postdoc at the RLAI lab, University of Alberta"
-  location         : "Edmonton, Canada"
+  bio              : "Currently a project researcher at the University of Tokyo"
+  location         : "Tokyo, Japan"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=1_jwNFIAAAAJ&hl=en"
