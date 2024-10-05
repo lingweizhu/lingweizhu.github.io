@@ -107,11 +107,7 @@ IEEE CASE 2018
 
 ## Professional Activities
 
-**Reviewer**\
-AAAI\
-ECML\
-IEEE Robotics and Automation Letter (RAL)\
-IEEE ICRA\
-ECML
+**Program Commitee Member (Reviewer)**\
+JMLR, IEEE-TNNLS, TMLR, NeurIPS, ICLR, AAAI, IJCAI, ECML, RAL, ICRA, IROS
 
 ****
