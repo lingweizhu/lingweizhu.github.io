@@ -22,18 +22,18 @@ My CV can be found [here](https://lingweizhu.github.io/files/cv_lingweizhu.pdf)
 
 ## **Preprints and Working Papers**
 
-($\dagger$ indicates equal contribution)
+($\dagger$ indicates joint first authors)
 
 Fat-to-Thin Policy Optimization: Offline RL with Sparse Policies \
-***Lingwei Zhu***, Han Wang, Yukie Nagai
+***Lingwei Zhu***$^{\dagger}$ , Han Wang $^{\dagger}$, Yukie Nagai
 
 $q$-Exponential Family for Policy Optimization, [[link]](https://arxiv.org/pdf/2408.07245)\
-***Lingwei Zhu***, Haseeb Shah, Han Wang, Yukie Nagai, Martha White
+***Lingwei Zhu***$^{\dagger}$ , Haseeb Shah $^{\dagger}$ , Han Wang $^{\dagger}$ , Yukie Nagai, Martha White
 
 
 ## **Publications**
 Offline Reinforcement Learning with Tsallis Regularization, [[link]](https://openreview.net/pdf?id=HNqEKZDDRc) \
-***Lingwei Zhu***, Matthew Schlegel, Han Wang, Martha White\
+***Lingwei Zhu***$^{\dagger}$ , Matthew Schlegel $^{\dagger}$ , Han Wang, Martha White\
 accepted by Transaction on Machine Learning Research (TMLR) 2024
 
 
