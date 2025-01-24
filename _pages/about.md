@@ -24,14 +24,20 @@ My CV can be found [here](https://lingweizhu.github.io/files/cv_lingweizhu.pdf)
 
 ($\dagger$ indicates joint first authors)
 
-Fat-to-Thin Policy Optimization: Offline RL with Sparse Policies \
-***Lingwei Zhu***$^{\dagger}$ , Han Wang $^{\dagger}$, Yukie Nagai
-
-$q$-Exponential Family for Policy Optimization, [[link]](https://arxiv.org/pdf/2408.07245)\
-***Lingwei Zhu***$^{\dagger}$ , Haseeb Shah $^{\dagger}$ , Han Wang $^{\dagger}$ , Yukie Nagai, Martha White
-
+Towards Physiologically Sensible Predictions via the Rule-based Reinforcement Learning Layer\
+***Lingwei Zhu***, Zheng Chen, Yukie Nagai, Jimeng Sun
 
 ## **Publications**
+
+Fat-to-Thin Policy Optimization: Offline RL with Sparse Policies \
+***Lingwei Zhu***$^{\dagger}$ , Han Wang $^{\dagger}$, Yukie Nagai\
+accepted by International Conference on Learning Representations (ICLR) 2025
+
+$q$-Exponential Family for Policy Optimization, [[link]](https://arxiv.org/pdf/2408.07245)\
+***Lingwei Zhu***$^{\dagger}$ , Haseeb Shah $^{\dagger}$ , Han Wang $^{\dagger}$ , Yukie Nagai, Martha White\
+accepted by International Conference on Learning Representations (ICLR) 2025
+
+
 Offline Reinforcement Learning with Tsallis Regularization, [[link]](https://openreview.net/pdf?id=HNqEKZDDRc) \
 ***Lingwei Zhu***$^{\dagger}$ , Matthew Schlegel $^{\dagger}$ , Han Wang, Martha White\
 accepted by Transaction on Machine Learning Research (TMLR) 2024
@@ -39,7 +45,7 @@ accepted by Transaction on Machine Learning Research (TMLR) 2024
 
 Generalized Munchausen Reinforcement Learning using Tsallis KL Divergence, [[link]](https://arxiv.org/pdf/2301.11476.pdf)\
 ***Lingwei Zhu***, Zheng Chen, Matthew Schlegel, Martha White\
-accepted by NeurIPS 2023
+accepted by Neural Information Processing Systems (NeurIPS) 2023
 
 Cautious Policy Programming: Exploiting KL Regularization for Monotonic Policy Improvement in Reinforcement Learning, [[link]](https://link.springer.com/article/10.1007/s10994-023-06368-z)\
 ***Lingwei Zhu***, Takamitsu Matsubara \
