@@ -29,7 +29,7 @@ Towards Physiologically Sensible Predictions via the Rule-based Reinforcement Le
 
 ## **Publications**
 
-Fat-to-Thin Policy Optimization: Offline RL with Sparse Policies \
+Fat-to-Thin Policy Optimization: Offline RL with Sparse Policies, [[link]](https://arxiv.org/pdf/2501.14373) \
 ***Lingwei Zhu***$^{\dagger}$ , Han Wang $^{\dagger}$, Yukie Nagai\
 accepted by International Conference on Learning Representations (ICLR) 2025
 
