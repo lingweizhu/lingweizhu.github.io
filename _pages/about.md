@@ -24,7 +24,7 @@ My CV can be found [here](https://lingweizhu.github.io/files/cv_lingweizhu.pdf)
 
 ($\dagger$ indicates joint first authors)
 
-Towards Physiologically Sensible Predictions via the Rule-based Reinforcement Learning Layer\
+Towards Physiologically Sensible Predictions via the Rule-based Reinforcement Learning Layer, [[link]](https://arxiv.org/pdf/2501.19055) \
 ***Lingwei Zhu***, Zheng Chen, Yukie Nagai, Jimeng Sun
 
 ## **Publications**
