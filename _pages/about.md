@@ -24,8 +24,16 @@ My CV can be found [here](https://lingweizhu.github.io/files/cv_lingweizhu.pdf)
 
 ($\dagger$ indicates joint first authors)
 
+
 Towards Physiologically Sensible Predictions via the Rule-based Reinforcement Learning Layer, [[link]](https://arxiv.org/pdf/2501.19055) \
 ***Lingwei Zhu***, Zheng Chen, Yukie Nagai, Jimeng Sun
+
+Symmetric Behavior Regularization via Taylor Expansion of Symmetry,\
+***Lingwei Zhu***, Zheng Chen, Han Wang, Yukie Nagai
+
+Learning Time-invariant Frequency Orthonormality for Non-stationary Time Series Forecasting,\
+Xihao Piao, Zheng Chen, ***Lingwei Zhu***, Yushun Dong, Yasuko Matsubara, Yasushi Sakurai
+
 
 ## **Publications**
 
