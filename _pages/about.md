@@ -10,8 +10,10 @@ redirect_from:
 
 ## Personal Info
 Welcome to my homepage! My name is Lingwei Zhu (朱　令緯). 
-I am now a Project Researcher at the [CDR lab, University of Tokyo](https://developmental-robotics.jp/en/greeting/) working with Prof. [Yukie Nagai](https://scholar.google.co.jp/citations?user=HqTUx7YAAAAJ&hl=en). 
-Prior to coming to Tokyo, I spent two wonderful years at the [RLAI Lab, University of Alberta](http://rlai.ualberta.ca/people.html) as a postdoc working with Prof. [Martha White](https://scholar.google.ca/citations?user=t5zdD_IAAAAJ&hl=en).
+I am a tenure-track Assistant Professor at the Great Bay University (大湾区大学). I am particularly interested in reinforcement learning and its real-world applications. I develop entropy regularized algorithms and apply them to industrial/engineering applications, see my publications for detail. I am looking for motivated students and postdoctoral researchers who are excited about RL to join my group. 
+If you are interested in it, please send your resume to zhulingwei[at]gbu.edu.cn
+
+Prior to coming to the GBU, I spent two wonderful years at the [RLAI Lab, University of Alberta](http://rlai.ualberta.ca/people.html) as a postdoc working with Prof. [Martha White](https://scholar.google.ca/citations?user=t5zdD_IAAAAJ&hl=en) and one year as a project researcher at the [University of Tokyo](https://developmental-robotics.jp/en/greeting/) with Prof. [Yukie Nagai](https://scholar.google.co.jp/citations?user=HqTUx7YAAAAJ&hl=en). 
 I obtained my PhD with the Best Student Honor at Nara Institute of Science and Technology (NAIST) under the supervision of Prof. [Takamitsu Matsubara](https://scholar.google.com/citations?user=RFDSj_0AAAAJ&hl=en). 
 
 My research interest lies in applications of artificial intelligence and machine learning for solving complex real-world problems. Especially reinforcement learning and unsupervised learning for autonomous control of large-scale systems (industrial processes and robotics) and automated biomedical systems (cancers, brain activity cognition).
